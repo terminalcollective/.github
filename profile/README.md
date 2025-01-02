@@ -14,4 +14,4 @@ Coming soon!
 
 - [Website](https://terminalcollective.org)
 - [Join the Discord](https://discord.gg/6EUERBrAMs)
-- [Code of Conduct](CODE_OF_CONDUCT.md)
+- [Code of Conduct](../CODE_OF_CONDUCT.md)
