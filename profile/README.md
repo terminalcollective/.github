@@ -13,5 +13,6 @@ Coming soon!
 ## Links
 
 - [Website](https://terminalcollective.org)
+- [YouTube](https://www.youtube.com/@TerminalCollectiveOrg)
 - [Join the Discord](https://discord.gg/6EUERBrAMs)
 - [Code of Conduct](../CODE_OF_CONDUCT.md)
